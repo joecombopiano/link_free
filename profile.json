@@ -1,0 +1,31 @@
+{
+    "title": "@snoo",
+    "bio": "I'm Snoo- the mascot for reddit. Let's chat!",
+    "links":[
+        {
+            "title":"My subreddit",
+            "url":"https://www.reddit.com/r/snoo"
+        },
+        {
+            "title":"Read about me on Wired",
+            "url":"https://www.wired.com/story/the-transformative-power-of-reddits-alien-mascot/"
+        },
+        {
+            "title": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Snoo"
+        },
+        {
+            "title": "GitHub",
+            "url": "https://github.com/reddit"
+        },
+        {
+            "title": "Instagram",
+            "url": "https://www.instagram.com/reddit/"
+        }
+    ],
+    "facebookPixelId": "01123581321",
+    "googleTagId":"01123581321",
+    "tikTokPixelId":"01123581321",
+    "buttonColor": "#ff5700",
+    "logo":"https://www.redditinc.com/assets/images/site/reddit-logo.png"
+} 
